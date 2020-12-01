@@ -1,2 +1,3 @@
 # Numpy_Pandas
- numpy and pandas beginner training
+ Numpy and pandas beginner training
+A repository to tell what I know about Numpy and the Pandas
